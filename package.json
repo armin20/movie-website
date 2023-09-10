@@ -7,7 +7,7 @@
     "commonjs": true
   },
   "engines": {
-    "node": "16.x"
+    "node": "18.x"
   },
   "dependencies": {
     "@material-ui/core": "^4.11.2",
